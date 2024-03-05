@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olaoluwa Marvellous Samuel
-- 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning ngrx for angular
-- 💞️ I’m looking to collaborate on data analysis and web applications projects
+- 👀 I’m interested in AI and blockchain projects
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me you can send me a whatsapp message or call me on 08033873611 
 
 <!---
